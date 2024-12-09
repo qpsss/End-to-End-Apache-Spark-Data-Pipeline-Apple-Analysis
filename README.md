@@ -5,7 +5,7 @@ This project follows a hands-on tutorial from The Big Data Show on YouTube. The 
 
 You can check out the full tutorial on The Big Data Show [here](https://youtu.be/BlWS4foN9cY?si=pVfp5rw-uZYrP4Vi).
 
-# Tools and Concepts
+## Tools and Concepts
 - PySpark DataFrame API: For data transformations and manipulations.
 - Spark SQL: For complex queries and business logic.
 - Delta Tables: For efficient and reliable data storage.
